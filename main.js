@@ -39,10 +39,14 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
     }
 
 }
+
 /*Template string é uma forma de facilitar a exibição de texto no JavaScript, 
-ele permite agrupar textos (strings) com outros tipos de informação, como number, boolean, array, entre outros.*/
-//estrutura de repetição for(significa para). 
-//estrutura condicional if(significa se).
-//operador de igualdade ==, estritamente igual (===), e o operador or (||).
-//A estruturas condicionais if e else juntas. 
-//O operador not equals (!=), operador lógico and (&&) e o valor null.
+ele permite agrupar textos (strings) com outros tipos de informação, como number, boolean, array, entre outros.
+
+Estrutura de repetição for(significa para). 
+Estrutura condicional if(significa se).
+
+Operador de igualdade ==, estritamente igual (===), e o operador or (||).
+
+A estruturas condicionais if e else juntas. 
+O operador not equals (!=), operador lógico and (&&) e o valor null.*/
